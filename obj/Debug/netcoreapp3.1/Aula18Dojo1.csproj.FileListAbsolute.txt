@@ -1,0 +1,13 @@
+C:\Users\cristina dias\Desktop\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.exe
+C:\Users\cristina dias\Desktop\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.deps.json
+C:\Users\cristina dias\Desktop\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.runtimeconfig.json
+C:\Users\cristina dias\Desktop\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.runtimeconfig.dev.json
+C:\Users\cristina dias\Desktop\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.dll
+C:\Users\cristina dias\Desktop\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.pdb
+C:\Users\cristina dias\Desktop\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.csprojAssemblyReference.cache
+C:\Users\cristina dias\Desktop\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.csproj.CoreCompileInputs.cache
+C:\Users\cristina dias\Desktop\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.AssemblyInfoInputs.cache
+C:\Users\cristina dias\Desktop\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.AssemblyInfo.cs
+C:\Users\cristina dias\Desktop\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.dll
+C:\Users\cristina dias\Desktop\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.pdb
+C:\Users\cristina dias\Desktop\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.genruntimeconfig.cache
